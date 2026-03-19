@@ -1,0 +1,1 @@
+web: gunicorn vuelos_bfs.wsgi
